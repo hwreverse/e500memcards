@@ -1,2 +1,9 @@
-# e500memcards
-Complete designs and production files for Sharp PC-E500/550/600/650/U6000/PC-1360 Memory Cards
+# Sharp PC-E500/550/600/650/U6000 Memory Cards (ポケコン)
+Complete designs and production files (Gerber + Assembly) for Sharp PC-E500/550/600/650/U6000/PC-1360 Memory Cards
+
+<a href="https://github.com/hwreverse/e500memcards/tree/main/MCBreakoutBoard">
+- **Memory Card Breakout Board**
+
+![Breakout Board](img/E500MCBB.jpg)
+
+  </a>
