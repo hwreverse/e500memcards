@@ -7,7 +7,7 @@ Fabrication recommendations: 1.6mm FR-4 and ENIG/ENEPIG finish (I do it usually 
 
 Contact 
 
-[JLCPCB]: https://jlcpcb.com/
+[JLCPCB]: https://jlcpcb.com/	"JLCPCB"
 
 , 
 
