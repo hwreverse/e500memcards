@@ -11,6 +11,6 @@ Pads are secured against delamination with two vias (pth). It is made to be used
 Fabrication recommendations: 1.6mm FR-4 and ENIG/ENEPIG finish (I do it usually for connectors and memory cards)<br>
 
 Contact <a href="https://jlcpcb.com/">JLCPCB</a>,&nbsp;<a href="https://pcbway.com/">PCBWay</a>,&nbsp;<a href="https://oshpark.com/">OSHPark</a>
-, or any other PCB fabrication company of your choice
+, or any other PCB fabrication company of your choice and send them the <a href="https://github.com/hwreverse/e500memcards/raw/main/MCBreakoutBoard/E500BBGerber.zip">Gerber files</a> with aforementioned instructions
 
 ![E500 Memory Card Breakout Board back](BBinE500_small.jpg)
